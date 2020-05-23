@@ -1,8 +1,8 @@
 """
+    @brief Show and work top menu header.
     @author DevRamil
 """
 from tkinter import Menu
-from tkinter.constants import *
 
 
 class MainMenu(Menu):
